@@ -1,0 +1,28 @@
+npm ERR! code ERESOLVE
+npm ERR! ERESOLVE unable to resolve dependency tree
+npm ERR! 
+npm ERR! While resolving: @xxdushtuxx/mahin_component-library@0.0.2
+npm ERR! Found: react@17.0.2
+npm ERR! node_modules/react
+npm ERR!   dev react@"^17.0.2" from the root project
+npm ERR!   peer react@"^16.8.0 || ^17.0.0 || ^18.0.0" from @storybook/react@7.0.24
+npm ERR!   node_modules/@storybook/react
+npm ERR!     dev @storybook/react@"^7.0.24" from the root project
+npm ERR! 
+npm ERR! Could not resolve dependency:
+npm ERR! peer react@"^18.2.0" from react-dom@18.2.0
+npm ERR! node_modules/react-dom
+npm ERR!   dev react-dom@"^18.2.0" from the root project
+npm ERR!   peer react-dom@"^16.8.0 || ^17.0.0 || ^18.0.0" from @storybook/react@7.0.24
+npm ERR!   node_modules/@storybook/react
+npm ERR!     dev @storybook/react@"^7.0.24" from the root project
+npm ERR! 
+npm ERR! Fix the upstream dependency conflict, or retry
+npm ERR! this command with --force or --legacy-peer-deps
+npm ERR! to accept an incorrect (and potentially broken) dependency resolution.
+npm ERR! 
+npm ERR! 
+npm ERR! For a full report see:
+npm ERR! /Users/mahin/.npm/_logs/2023-06-29T04_02_15_535Z-eresolve-report.txt
+
+npm ERR! A complete log of this run can be found in: /Users/mahin/.npm/_logs/2023-06-29T04_02_15_535Z-debug-0.log
